@@ -1,8 +1,10 @@
 <p align="center">¡Hola! It's me <strong>leoarayav</strong></div>
 
-### Knowledges
-- 💻 Freelance Software Development
-- 👩‍💻 Cibersecurity Pentester Student
-- 📕 CFT-INACAP Student
+- Software Development
+- Frontend Development
+- Backend Development
+- Python Development
+- IT Essentials Knowledges
+- Cibersecurity Expert
 
-Contact me via **[email](laraya1818@gmail.com)**
+Hire me via **[LinkedIn](https://www.linkedin.com/in/leoarayav/)**
